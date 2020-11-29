@@ -310,6 +310,23 @@ pos {
   width: 75vw;
   height: 100vh;
 }
+#edu {
+  background-color: floralwhite;
+}
+#maitLogo {
+  position: relative;
+  bottom: 10px;
+  left: 30px;
+}
+#cbse {
+  position: relative;
+  left: 340px;
+  bottom: 70px;
+}
+#tenth {
+  position: relative;
+  left: 340px;
+}
 .comp {
   margin: 1%;
   height: 32%;
@@ -390,7 +407,6 @@ posp {
 #about {
   font-size: 1.25rem;
   padding-left: 15px;
-  padding-top: 15px;
 }
 #degree {
   font-size: 1.5rem;
